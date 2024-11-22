@@ -1,7 +1,3 @@
-Here's an improved README file for your project. It has a cleaner layout, modern UI/UX-inspired formatting, and better user experience:  
-
----
-
 # 🌟 **Book World**  
 A full-featured book review and management application built using the **MERN stack**.  
 
