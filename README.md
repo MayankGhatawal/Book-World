@@ -88,9 +88,6 @@ cd book-world
 
 #### 2️⃣ Install Dependencies  
 ```bash
-# Book World
-npm install
-
 # Backend  
 cd backend  
 npm install  
