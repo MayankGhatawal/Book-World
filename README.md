@@ -78,7 +78,7 @@ If you don't have Cloudinary, you can replace `cloudStorage` with `diskStorage` 
 #### Clone the Repository
 
 ```shell
-git clone https://github.com/NEET64/book-world.git
+git clone https://github.com/MayankGhatawal/Book-World.git
 cd book-world
 ```
 
