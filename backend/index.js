@@ -17,7 +17,7 @@ mongoose
   .catch(() => console.log("Error Connecting to Database"));
 
 const path = require("path");
-app.use("/public", express.static(path.join(__dirname, "./frontend")));
+app.use("/", express.static(path.join(__dirname, "./frontend")));
 app.use(express.urlencoded({ extended: false }));
 
 app.use("/books", bookRouter);
