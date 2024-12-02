@@ -1,7 +1,6 @@
 # 🌟 **Book World**  
 A full-featured book review and management application built using the **MERN stack**.  
 
-
 <img src="https://github.com/MayankGhatawal/Book-World/blob/master/Screenshot%202024-11-22%20130046.png?raw=true"></img>
 
 Users can explore books, leave reviews with star ratings, and manage their favorites. Admins enjoy extended features to manage books, users, and access controls.  
