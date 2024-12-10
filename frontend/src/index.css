@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar{
+  width: 9px;
+}
+
+// ::-webkit-scrollbar-track {
+//   background: #192134;
+//   border-radius: 10px;
+// }
+
+::-webkit-scrollbar-thumb {
+  background: #241B50;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(6, 14, 103);
+}
+
 .heart {
   position: absolute;
   background: url("./images/heart.png") no-repeat;
